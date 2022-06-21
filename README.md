@@ -3,7 +3,6 @@
 - 👀 Я всегда готов изучать новое.
 - 🌱 Сейчас я учусь в Яндекс Правтикуме на курсе web-разработки.
 - 📫 Контакты: lugovskou.myu@yandex.ru 
-- 
 # В моих работах я активно использовал:
 - БЭМ;
 - Адаптивную верстку;
@@ -15,7 +14,6 @@
 - Reack
 - Redux
 - TypeScript
-
 ## Мой стек: 
 <img align="left" alt="JavaScript" width="40px" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/js.png?raw=true"/>
 <img align="left" alt="HTML5" width="40px" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/html.png?raw=true" />
