@@ -5,22 +5,19 @@
 - ✌️ Мне очень хочется активно развиваться в web разработке, я работаю над этим).
 - 💬 Мой телеграм https://t.me/MaximLugo
 - 📫 Контакты: lugovskou.myu@yandex.ru
-# В моих работах я  использовал:
-- БЭМ;
-- Адаптивную верстку;
-- Гриды;
-- Сборщик модулей Webpack;
-- Bebel;
-- Gh-pages;
-- React;
+# Мой стек:
+- BEM Nasted;
+- HTML;
+- CSS;
+- JavaScript;
+- Node.js;
+- React.js;
 - Api;
-- Git.
+- Git;
+- GitHub;
+- Figma.
 #  В планах
 - Redux
 - TypeScript
-## Мой стек:
-<img align="left" alt="React.js" width="40px" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/react.png?raw=true" />
-<img align="left" alt="JavaScript" width="35" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/js.png?raw=true"/>
-<img align="left" alt="HTML5" width="40px" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/html.png?raw=true" />
-<img align="left" alt="CSS3" width="40px" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/css.png?raw=true" />
-<img align="left" alt="Git" width="40px" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/git.png?raw=true" />
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lugovskoy-Maxim)](https://github.com/Lugovskoy-Maxim/github-readme-stats)
