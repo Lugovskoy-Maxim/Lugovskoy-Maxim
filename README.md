@@ -15,6 +15,8 @@
 - Api;
 - Git;
 - GitHub;
+- Express.js;
+- Postman;
 - Figma.
 #  В планах
 - JavaScript повысить уровень знаний языка
