@@ -16,14 +16,15 @@
 - Git;
 - GitHub;
 - Express.js;
+
 - Postman;
 - Figma.
 #  В планах
-- JavaScript повысить уровень знаний языка
-- React планирую пройти курс для укрепления знаний и повышении квалификации.
-- Redux
-- TypeScript
-- Vue.js и Angular.js ознакомится
+- JavaScript повысить уровень знаний языка;
+- React планирую пройти курс для укрепления знаний и повышении квалификации;
+- Redux;
+- TypeScript;
+- Vue.js и Angular.js ознакомится;
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lugovskoy-Maxim)](https://github.com/Lugovskoy-Maxim/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lugovskoy-Maxim)](https://github.com/Lugovskoy-Maxim/github-readme-stats)
