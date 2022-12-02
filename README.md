@@ -2,16 +2,16 @@
 - 💬 Мой телеграм https://t.me/MaximLugo
 - 📫 Контакты: lugovskou.myu@yandex.ru
 # Мой стек:
-- BEM Nasted;
-- HTML;
-- CSS;
-- JavaScript;
-- Node.js;
-- React.js;
-- Api;
-- Git;
-- GitHub;
-- Express.js;
+* BEM Nasted;
+* HTML;
+* CSS;
+* JavaScript;
+* Node.js;
+* React.js;
+* Api;
+* Git;
+* GitHub;
+* Express.js;
 
 - Postman;
 - Figma.
