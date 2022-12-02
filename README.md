@@ -4,6 +4,7 @@
 # Навыки
 
 
+| ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 > <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/html5.svg" /> *HTML*
