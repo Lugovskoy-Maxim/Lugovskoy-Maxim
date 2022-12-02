@@ -3,7 +3,7 @@
 - 📫 Контакты: lugovskou.myu@yandex.ru
 # Мои навыки
 
-| Front end  | Back end | Other |
+| Frontend  | Backend | APL & Other |
 | ------------- | ------------- | ------------- |
 | <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/html5.svg" /> *HTML*  | <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/express.svg" /> *Express.js* | <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/javascript.svg" /> *JavaScript*  |
 | <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/css3.svg" /> *CSS* | <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/nginx.svg" /> *Nginx* | <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/nodedotjs.svg" /> *NodeJS*  |
