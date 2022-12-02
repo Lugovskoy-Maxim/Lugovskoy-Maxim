@@ -3,6 +3,16 @@
 - 📫 Контакты: lugovskou.myu@yandex.ru
 # Мои навыки
 
+| Front end  | Back end | Other |
+| ------------- | ------------- | ------------- |
+| <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/html5.svg" /> *HTML*  | <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/express.svg" /> *Express.js* | <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/javascript.svg" /> *JavaScript*  |
+| <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/css3.svg" /> *CSS* | <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/nginx.svg" /> *Nginx* | <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/nodedotjs.svg" /> *NodeJS*  |
+| <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/react.svg" /> *React* | <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/pm2.svg" /> *PM2*  | <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/github.svg" /> *Github*  |
+| Content Cell  | <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/mongodb.svg" /> *Mongo DB*  | Content Cell  |
+| Content Cell  | Content Cell  | <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/gnubash.svg" /> *Bash*|
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+
 > <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/html5.svg" /> *HTML*
 
 > <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/css3.svg" /> *CSS*
