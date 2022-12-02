@@ -2,7 +2,7 @@
 - 💬 Мой телеграм https://t.me/MaximLugo
 - 📫 Контакты: lugovskou.myu@yandex.ru
 # Навыки
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/nodejs.svg" />
+<img height="32" width="32" src="[https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/nodejs.svg](https://simpleicons.org/icons/nodedotjs.svg)" />
 #E34F26 HTML
 #1572B6 CSS
 #F7DF1E JavaScript
