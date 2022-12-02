@@ -2,18 +2,18 @@
 - 💬 Мой телеграм https://t.me/MaximLugo
 - 📫 Контакты: lugovskou.myu@yandex.ru
 # Навыки
-<img height="32" width="32" src="[https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/nodejs.svg](https://simpleicons.org/icons/nodedotjs.svg)" />
-#E34F26 HTML
-#1572B6 CSS
-#F7DF1E JavaScript
-#61DAFB React
-#339933 NodeJS
-Github
-Nginx
+<img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/html5.svg" /> HTML
+<img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/css3.svg" /> CSS
+<img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/javascript.svg" /> JavaScript
+ <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/react.svg" /> React
+ <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/nodedotjs.svg" /> NodeJS
+ <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/github.svg" /> Github
+<img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/nginx.svg" /> Nginx
+<img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/gnubash.svg" />
 Bash
-Express.js
-Mongo DB
-#2B037A PM2
+<img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/express.svg" /> Express.js
+<img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/mongodb.svg" /> Mongo DB
+<img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/pm2.svg" /> PM2
 #  В планах
 - JavaScript повысить уровень знаний языка;
 - React планирую пройти курс для укрепления знаний и повышении квалификации;
