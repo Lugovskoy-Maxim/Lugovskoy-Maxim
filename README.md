@@ -2,6 +2,10 @@
 - 💬 Мой телеграм https://t.me/MaximLugo
 - 📫 Контакты: lugovskou.myu@yandex.ru
 # Навыки
+
+
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 > <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/html5.svg" /> *HTML*
 
 > <img height="32" width="32" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/css3.svg" /> *CSS*
@@ -34,7 +38,3 @@
 [![codewars](https://www.codewars.com/users/Lugovskoy-Maxim/badges/large)](https://www.codewars.com/users/Lugovskoy-Maxim/)
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
