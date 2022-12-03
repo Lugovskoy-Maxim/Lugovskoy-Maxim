@@ -1,5 +1,5 @@
-<img  src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/HelloWorld.svg" />
-<img  src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/web-dev.svg" />
+<img height="850" width="200" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/HelloWorld.svg" />
+<img height="850" width="200" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/web-dev.svg" />
 
 
 ### 💬 Мой телеграм: [https://t.me/MaximLugo](https://t.me/MaximLugo)
