@@ -1,4 +1,4 @@
-<img height="200" width="850" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/HelloWorld.svg" />
+<img height="200" width="850" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/Hello_World.svg" />
 <img height="100" width="850" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/web-dev.svg" />
 
 
