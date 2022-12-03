@@ -38,6 +38,6 @@
             </path>
                 </g>
 
-                        <text text-anchor="middle" alignment-baseline="middle" x="50%" y="30%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="1" >Привет Мир!</text>
+                        <text text-anchor="middle" alignment-baseline="middle" x="50%" y="30%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="1" >console.log("Hello, world!") </text>
                 <text text-anchor="middle" alignment-baseline="middle" x="50%" y="55%" class="desc" style="fill:#f7f5f5;">Добро пожаловать на мой GitHub профиль!</text>
             </svg>
