@@ -1,8 +1,16 @@
 <img height="200" width="850" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/Hello_World.svg" />
 <img height="100" width="850" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/web-dev.svg" />
 
+### ***О себе:***
 
-# Мои навыки
+* 👨‍💻 Стараюсь писать чистый и оптимезированный код
+
+* 😎 Хочу работать в команде опытных профессионалов
+
+* 🚀 Осваиваю новые технологии
+
+* ⏱ Учусь на web-разработчика в Яндекс.Практикум
+## Мои навыки
 
 <!-- | Frontend  | Backend | APL & Other |
 | ------------- | ------------- | ------------- |
@@ -13,7 +21,8 @@
 
 
 <img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/html5.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/css3.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/javascript.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/react.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/nodedotjs.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/github.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/nginx.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/gnubash.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/express.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/mongodb.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/pm2.svg" />
-#  В планах
+
+### В планах
 - JavaScript повысить уровень знаний языка;
 - React планирую пройти курс для укрепления знаний и повышении квалификации;
 - Redux;
