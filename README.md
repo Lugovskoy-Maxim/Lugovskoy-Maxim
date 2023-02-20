@@ -1,4 +1,4 @@
-<img height="200" width="850" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/Hello_World.svg" />
+<!-- <img height="200" width="850" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/Hello_World.svg" /> -->
 <!-- <img height="100" width="850" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/web-dev.svg" /> -->
 
 ### ***О себе:***
@@ -9,7 +9,9 @@
 
 * 🚀 Осваиваю новые технологии
 
-* ⏱ Учусь на web-разработчика в Яндекс.Практикум
+* 🌱 Окончил курс web-разработчика в Яндекс.Практикум (48 когорта)
+
+* 🔎 Ищу курсы для повышения скила
 ## Мои навыки
 
 <!-- | Frontend  | Backend | APL & Other |
