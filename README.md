@@ -6,17 +6,14 @@
 ### ***О себе:***
 
 * 👨‍💻 Стараюсь писать чистый и оптимезированный код
-* 😎 Хочу работать в команде опытных профессионалов
 * 🚀 Осваиваю новые технологии
-* 🌱 Окончил курс web-разработчика в Яндекс.Практикум (48 когорта)
-* 🔎 Ищу курсы для повышения скила
-* 
+* 🔎 Ищу проекты для повышения скила
+  
 ## Мои навыки
 
 <img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/html5.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/css3.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/javascript.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/react.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/nodedotjs.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/github.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/nginx.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/gnubash.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/express.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/mongodb.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/pm2.svg" />
 
 ### В планах
-- JavaScript повысить уровень знаний языка;
-- React планирую пройти курс для укрепления знаний и повышении квалификации;
+- Next;
 - Redux;
 - TypeScript;
