@@ -11,6 +11,7 @@
 ## Мои навыки
 
 <img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills1.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills2.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills3.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills4.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills5.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills6.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills7.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills8.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills9.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills10.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills11.svg" />
+
 <sub>css, js, ts, react, git, next, bootstrap, node, html, scss/sass, redux</sub>
 
 ### Статистика
