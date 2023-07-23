@@ -14,7 +14,26 @@
 
 ## Мои навыки
 
-<img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills1.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills2.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills3.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills4.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills5.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills6.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills7.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills8.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills9.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills10.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills11.svg" />
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=JavaScript) 
+![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=Next.js)
+![Redux Toolkit](https://img.shields.io/badge/-ReduxToolkit-0d1117?style=for-the-badge&logo=Redux)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=TypeScript)
+![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack)
+![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=for-the-badge&logo=CSS3)
+![Sass](https://img.shields.io/badge/-Sass-0d1117?style=for-the-badge&logo=Sass)
+![Pixel Perfect](https://img.shields.io/badge/-PixelPerfect-0d1117?style=for-the-badge&logo=PixelPerfect)
+
+![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-0d1117?style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-0d1117?style=for-the-badge&logo=Postman)
+![Nginx](https://img.shields.io/badge/-Nginx-0d1117?style=for-the-badge&logo=Nginx)
+![PM2](https://img.shields.io/badge/-PM2-0d1117?style=for-the-badge)
+![Winston](https://img.shields.io/badge/-Winston-0d1117?style=for-the-badge)
+![JWT](https://img.shields.io/badge/-JWT-0d1117?style=for-the-badge)
+
+<!--
+<img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills1.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills2.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills3.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills4.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills5.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills6.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills7.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills8.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills9.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills10.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills11.svg" /> -->
 
 > css, js, ts, react, git, next, bootstrap, node, html, scss/sass, redux
 
