@@ -25,7 +25,7 @@
 ![Pixel Perfect](https://img.shields.io/badge/-PixelPerfect-0d1117?style=for-the-badge&logo=PixelPerfect)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-0d1117?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/express.js-0d1117?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Postman](https://img.shields.io/badge/-Postman-0d1117?style=for-the-badge&logo=Postman)
 ![Nginx](https://img.shields.io/badge/-Nginx-0d1117?style=for-the-badge&logo=Nginx)
 ![PM2](https://img.shields.io/badge/-PM2-0d1117?style=for-the-badge)
