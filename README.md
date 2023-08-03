@@ -45,5 +45,5 @@
 ### План развития:
 
 - `Next.js` + `Redux/toolkit` + `TypeScript`;
-- `Websocket`
+- `Socket.io`
 - `Nest.js`
