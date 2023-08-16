@@ -1,20 +1,19 @@
 <img height="200" width="850" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/Hello_World.svg" />
 <!-- <img height="100" width="850" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/web-dev.svg" /> -->
 
-**_Приветствую вас в моем профиле GitHub! Здесь вы найдете мои **проекты** и **идеи**, которые я разрабатываю. Я люблю программирование и всегда стараюсь **улучшать** свои навыки. Если у вас есть какие-либо **вопросы** или **предложения**, не стесняйтесь **связаться** со мной. Буду рад общению и сотрудничеству!_**
+**\_Приветствую вас в моем профиле GitHub! Здесь вы найдете мои **проекты** и **идеи**, которые я разрабатываю. Я люблю программирование и всегда стараюсь **улучшать** свои навыки. Если у вас есть какие-либо **вопросы** или **предложения**, не стесняйтесь **связаться** со мной. Буду рад общению и сотрудничеству!\_**
 
 ### **_О себе:_**
 
 > Мне 28 лет, последние полтора года я посвятил изучению frontend напрвления.
 > У меня есть цель: я хочу стать большим умельцем в разработке и делать много полезных и удобных штучек.
-> Любимая фраза: `let's get dangerous`
 
 - 🚀 Осваиваю новые технологии
 - 🔎 Ищу проекты для повышения скила
 
 ## Мои навыки
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=JavaScript) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=JavaScript)
 ![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=Next.js)
 ![Redux Toolkit](https://img.shields.io/badge/-ReduxToolkit-0d1117?style=for-the-badge&logo=Redux)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=TypeScript)
@@ -33,7 +32,7 @@
 ![JWT](https://img.shields.io/badge/-JWT-0d1117?style=for-the-badge)
 
 <!--
-<img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills1.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills2.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills3.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills4.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills5.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills6.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills7.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills8.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills9.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills10.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills11.svg" /> 
+<img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills1.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills2.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills3.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills4.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills5.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills6.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills7.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills8.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills9.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills10.svg" /><img height="48" width="48" src="https://github.com/Lugovskoy-Maxim/Lugovskoy-Maxim/blob/main/icon/skills11.svg" />
 
 > css, js, ts, react, git, next, bootstrap, node, html, scss/sass, redux
 -->
