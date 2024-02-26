@@ -37,7 +37,7 @@
 
 > css, js, ts, react, git, next, bootstrap, node, html, scss/sass, redux
 -->
-
+<!--
 ### Статистика
 
 [![codewars](https://www.codewars.com/users/Lugovskoy-Maxim/badges/large)](https://www.codewars.com/users/Lugovskoy-Maxim)
@@ -46,3 +46,4 @@
 
 - `Next.js` + `Redux/toolkit` + `TypeScript`;
 - `Nest.js`
+-->
