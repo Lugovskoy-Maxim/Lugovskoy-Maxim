@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,react,nextjs,redux,tailwind,nodejs,nestjs,mongodb,prisma,postgres,socketio,docker,nginx,linux,git,github,postman,jest&perline=11" alt="Стек технологий" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,react,nextjs,redux,tailwind,nodejs,nestjs,mongodb,prisma,postgres,express,docker,nginx,linux,git,github,postman,jest&perline=11" alt="Стек технологий" />
   </a>
 </p>
 
