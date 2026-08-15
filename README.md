@@ -24,7 +24,7 @@
 |:-------|:-----|:------|
 | [Tomilo-lib.ru](https://tomilo-lib.ru) | NestJS · MongoDB · Socket.io · Docker | Онлайн-библиотека манхвы и маньхуа |
 | [Telegram-бот](https://github.com/Lugovskoy-Maxim/tomilo-lib-telegram-bot) | Node.js · Telegram Bot API | Уведомления о новых главах для Tomilo Lib |
-| [PASS24](https://github.com/Lugovskoy-Maxim/pass24front) | Next.js · NestJS · MongoDB · Docker | Пропуска для бизнес-центра: заявки, ресепшн, контроль входа |
+| [PASS](https://github.com/Lugovskoy-Maxim/pass24front) | Next.js · NestJS · MongoDB · Docker | Пропуска для бизнес-центра: заявки, ресепшн, контроль входа |
 
 ---
 
