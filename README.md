@@ -5,7 +5,7 @@
 <h1 align="center">Максим Луговской</h1>
 
 <p align="center">
-  Full-stack разработчик · TypeScript · React · Next.js · NestJS · Инфраструктура
+  Full-stack разработчик · TypeScript · React · Next.js · NestJS
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ### О себе
 
-Создаю быстрые и удобные веб-приложения: от интерфейса до API, базы данных, сетевого взаимодействия и деплоя. Люблю понятную архитектуру, аккуратный UX и решения, которые легко поддерживать и развивать.
+Создаю быстрые и удобные веб-приложения: от интерфейса до API, базы данных и сетевого взаимодействия. Люблю понятную архитектуру, аккуратный UX и решения, которые легко поддерживать и развивать.
 
 Сейчас работаю с современным JavaScript-стеком и внедряю AI-инструменты в ежедневную разработку.
 
@@ -31,11 +31,10 @@
 | **Frontend** | TypeScript · JavaScript · React · Next.js · Redux Toolkit · Tailwind CSS · HTML5 · CSS3 · Sass · Webpack |
 | **Backend** | Node.js · NestJS · Express · REST API · Socket.io · JWT · Winston |
 | **Данные** | MongoDB · PostgreSQL · Prisma |
-| **Инфраструктура** | Docker · Nginx · PM2 · Linux |
 | **Качество и инструменты** | Git · GitHub · Jest · ESLint · Prettier · Postman |
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,react,nextjs,redux,tailwind,webpack,nodejs,nestjs,mongodb,prisma,postgres,express,docker,nginx,linux,git,github,postman,jest&perline=11" alt="Полный стек: TypeScript, React, Next.js, Node.js, NestJS, базы данных и инфраструктура" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,react,nextjs,redux,tailwind,webpack,nodejs,nestjs,mongodb,prisma,postgres,express,git,github,postman,jest&perline=11" alt="Полный стек: TypeScript, React, Next.js, Node.js, NestJS и базы данных" />
 </p>
 
 <details>
@@ -48,11 +47,10 @@
   <img src="./icon/ai/gemini.svg" alt="Gemini" title="Gemini" height="40" />
 </details>
 
-### Сетевой и инфраструктурный опыт
+### Сетевой опыт
 
 - Проектирование и интеграция REST API, авторизация через JWT.
 - Реалтайм-взаимодействие через Socket.io: события и двусторонняя связь клиент ↔ сервер.
-- Подготовка приложений к развёртыванию: Docker, Nginx как reverse proxy, PM2 и Linux-окружение.
 - Работа с клиент-серверной архитектурой, HTTP и настройкой взаимодействия сервисов.
 
 ### Избранные проекты
